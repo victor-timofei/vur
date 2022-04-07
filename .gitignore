@@ -1,0 +1,5 @@
+*/src/
+*/pkg/
+*.sig
+
+gdb-multiarch/gdb-*.tar.xz
